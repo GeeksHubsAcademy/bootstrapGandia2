@@ -2,22 +2,20 @@
 .container-fluid {
     /* background-color: #4D346F; */
 
-    color: white;
+    
 }
 
-.colorFila1 {
+.colorFila1 .col{
     background-color: aqua;
 }
 
-.colorFila2 {
+.colorFila2 .col{
     background-color: #4D346F;
 }
 
-.colorFila4 {
+.colorFila4 .col{
     background-color: pink;
 }
 
-.row {
-    padding: 0.2em;
-}
+
 
